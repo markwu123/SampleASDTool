@@ -10,17 +10,19 @@
   <div class="container">
     <h1>ASD 購通工具</h1>
 
-    <!-- 顯示已組成的句子 -->
-    <div id="sentence-box" class="sentence-box"></div>
-
-    <!-- 控制按鈕 -->
-    <div class="controls">
-      <button id="speak-all">🔊 播放全部</button>
-      <button id="clear-sentence">❌ 清除句子</button>
+    <div class="option-bar">
+      <label>
+        <input type="checkbox" id="sentenceMode" />
+        啟用句子模式
+      </label>
     </div>
 
-    <!-- JSON 分區按鈕會放這裡 -->
-    <div id="sections" class="sections"></div>
+    <div id="buttonContainer" class="button-container"></div>
+
+    <div class="footer">
+      <button id="playButton">播放句子</button>
+      <button id="clearButton">清除句子</button>
+    </div>
   </div>
 
   <script src="script.js"></script>
