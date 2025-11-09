@@ -1,22 +1,73 @@
 {
   "人稱": [
-    { "name": "我", "text": "我", "value": "wo", "image": "https://cdn-icons-png.flaticon.com/512/4140/4140048.png" },
-    { "name": "爸爸", "text": "爸爸", "value": "dad", "image": "https://cdn-icons-png.flaticon.com/512/921/921079.png" },
-    { "name": "媽媽", "text": "媽媽", "value": "mom", "image": "https://cdn-icons-png.flaticon.com/512/921/921087.png" },
-    { "name": "阿公", "text": "阿公", "value": "grandpa", "image": "https://cdn-icons-png.flaticon.com/512/4140/4140049.png" },
-    { "name": "阿嬤", "text": "阿嬤", "value": "grandma", "image": "https://cdn-icons-png.flaticon.com/512/4140/4140047.png" }
+    {
+      "name": "我",
+      "text": "我",
+      "image": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png"
+    },
+    {
+      "name": "爸爸",
+      "text": "爸爸",
+      "image": "https://cdn-icons-png.flaticon.com/512/4333/4333602.png"
+    },
+    {
+      "name": "媽媽",
+      "text": "媽媽",
+      "image": "https://cdn-icons-png.flaticon.com/512/4333/4333601.png"
+    },
+    {
+      "name": "阿公",
+      "text": "阿公",
+      "image": "https://cdn-icons-png.flaticon.com/512/4333/4333596.png"
+    },
+    {
+      "name": "阿嬤",
+      "text": "阿嬤",
+      "image": "https://cdn-icons-png.flaticon.com/512/4333/4333599.png"
+    }
   ],
   "動詞": [
-    { "name": "我要", "text": "我要", "value": "want_to", "image": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png" },
-    { "name": "吃", "text": "吃", "value": "eat", "image": "https://cdn-icons-png.flaticon.com/512/857/857681.png" },
-    { "name": "上廁所", "text": "上廁所", "value": "toilet", "image": "https://cdn-icons-png.flaticon.com/512/2469/2469989.png" },
-    { "name": "出去玩", "text": "出去玩", "value": "play_outside", "image": "https://cdn-icons-png.flaticon.com/512/1903/1903162.png" },
-    { "name": "去", "text": "去", "value": "go", "image": "https://cdn-icons-png.flaticon.com/512/992/992700.png" }
+    {
+      "name": "要",
+      "text": "要",
+      "image": "https://cdn-icons-png.flaticon.com/512/992/992651.png"
+    },
+    {
+      "name": "去",
+      "text": "去",
+      "image": "https://cdn-icons-png.flaticon.com/512/992/992700.png"
+    },
+    {
+      "name": "吃",
+      "text": "吃",
+      "image": "https://cdn-icons-png.flaticon.com/512/562/562678.png"
+    },
+    {
+      "name": "上",
+      "text": "上",
+      "image": "https://cdn-icons-png.flaticon.com/512/992/992701.png"
+    }
   ],
   "名詞": [
-    { "name": "橘子", "text": "橘子", "value": "orange", "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png" },
-    { "name": "廁所", "text": "廁所", "value": "toilet_room", "image": "https://cdn-icons-png.flaticon.com/512/483/483110.png" },
-    { "name": "外面", "text": "外面", "value": "outside", "image": "https://cdn-icons-png.flaticon.com/512/883/883407.png" },
-    { "name": "廚房", "text": "廚房", "value": "kitchen", "image": "https://cdn-icons-png.flaticon.com/512/1046/1046784.png" }
+    {
+      "name": "橘子",
+      "text": "橘子",
+      "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png"
+    },
+    {
+      "name": "廁所",
+      "text": "廁所",
+      "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+      "name": "廚房",
+      "text": "廚房",
+      "image": "https://cdn-icons-png.flaticon.com/512/1046/1046857.png"
+    },
+    {
+      "name": "外面玩",
+      "text": "出去玩",
+      "image": "https://cdn-icons-png.flaticon.com/512/883/883407.png"
+    }
   ]
 }
