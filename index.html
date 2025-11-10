@@ -5,18 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ASD 溝通工具</title>
   <link rel="stylesheet" href="css/style.css" />
-<!-- ✅ 加入 PWA 設定 -->
+
+  <!-- ✅ PWA 設定 -->
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#4CAF50" />
 
-  <!-- iOS 專用 PWA 設定 -->
+  <!-- ✅ iOS 專用設定 -->
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="ASD 溝通工具" />
   <link rel="apple-touch-icon" href="icons/icon-192.png" />
-
-
-
 </head>
 <body>
   <div class="container">
@@ -41,15 +39,17 @@
 
   <script src="js/index.js"></script>
 
-<script>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('service-worker.js')
-      .then(() => console.log('✅ Service Worker 註冊成功'))
-      .catch(err => console.log('❌ Service Worker 註冊失敗:', err));
-  }
-</script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js')
+        .then(() => console.log('✅ Service Worker 註冊成功'))
+        .catch(err => console.log('❌ Service Worker 註冊失敗:', err));
+    }
+  </script>
 
-  <p>Icons by <a href="https://www.flaticon.com/" target="_blank" rel="noopener">Flaticon</a>, 
-including works by Freepik, Pixel perfect, Good Ware, and others.</p>
+  <p class="credits">
+    Icons by <a href="https://www.flaticon.com/" target="_blank" rel="noopener">Flaticon</a>, 
+    including works by Freepik, Pixel perfect, Good Ware, and others.
+  </p>
 </body>
 </html>
