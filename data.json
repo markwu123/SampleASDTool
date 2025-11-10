@@ -1,91 +1,37 @@
 {
-  "group":人稱",
-  "isshow":"Y",
-  "data": [
+  "groups": [
     {
-      "name": "我",
-      "text": "我",
-      "image": "https://cdn-icons-png.flaticon.com/512/163/163847.png"
+      "group": "人稱",
+      "isshow": "Y",
+      "data": [
+        { "name": "我", "text": "我", "image": "https://cdn-icons-png.flaticon.com/512/163/163847.png" },
+        { "name": "爸爸", "text": "爸爸", "image": "https://cdn-icons-png.flaticon.com/512/3048/3048150.png" },
+        { "name": "媽媽", "text": "媽媽", "image": "https://cdn-icons-png.flaticon.com/512/2829/2829835.png" },
+        { "name": "阿公", "text": "阿公", "image": "https://cdn-icons-png.flaticon.com/512/7703/7703936.png" },
+        { "name": "阿嬤", "text": "阿嬤", "image": "https://cdn-icons-png.flaticon.com/512/3554/3554027.png" },
+        { "name": "弟弟", "text": "弟弟", "image": "https://cdn-icons-png.flaticon.com/512/7223/7223689.png" }
+      ]
     },
     {
-      "name": "爸爸",
-      "text": "爸爸",
-      "image": "https://cdn-icons-png.flaticon.com/512/3048/3048150.png"
+      "group": "動詞",
+      "isshow": "Y",
+      "data": [
+        { "name": "要去", "text": "要去", "image": "https://cdn-icons-png.flaticon.com/512/15306/15306967.png" },
+        { "name": "要拿", "text": "要拿", "image": "https://cdn-icons-png.flaticon.com/512/10688/10688534.png" },
+        { "name": "要吃", "text": "要吃", "image": "https://cdn-icons-png.flaticon.com/512/562/562678.png" },
+        { "name": "要喝", "text": "要喝", "image": "https://cdn-icons-png.flaticon.com/512/9047/9047082.png" }
+      ]
     },
     {
-      "name": "媽媽",
-      "text": "媽媽",
-      "image": "https://cdn-icons-png.flaticon.com/512/2829/2829835.png"
-    },
-    {
-      "name": "阿公",
-      "text": "阿貢",
-      "image": "https://cdn-icons-png.flaticon.com/512/7703/7703936.png"
-    },
-    {
-      "name": "阿嬤",
-      "text": "阿罵",
-      "image": "https://cdn-icons-png.flaticon.com/512/3554/3554027.png"
-    },
-    {
-      "name": "弟弟",
-      "text": "弟弟",
-      "image": "https://cdn-icons-png.flaticon.com/512/7223/7223689.png" 
-    }
-  ],
-  
-  "group": "動詞",
-  "isshow":"Y",
-  "data": [
-    {
-      "name": "要去",
-      "text": "要去",
-      "image": "https://cdn-icons-png.flaticon.com/512/15306/15306967.png"
-    },
-    {
-      "name": "要拿",
-      "text": "要拿",
-      "image": "https://cdn-icons-png.flaticon.com/512/10688/10688534.png"
-    },
-    {
-      "name": "要吃",
-      "text": "要吃",
-      "image": "https://cdn-icons-png.flaticon.com/512/562/562678.png"
-    },
-    
-    {
-      "name": "要喝",
-      "text": "要喝",
-      "image": "https://cdn-icons-png.flaticon.com/512/9047/9047082.png"
-    }
-  ],
-   "group":"名詞",
-  "isshow":"Y",
-  "data": [
-    {
-      "name": "橘子",
-      "text": "橘子",
-      "image": "https://cdn-icons-png.flaticon.com/512/5029/5029540.png"
-    },
-    {
-      "name": "廁所",
-      "text": "廁所",
-      "image": "https://cdn-icons-png.flaticon.com/512/194/194483.png"
-    },
-    {
-      "name": "廚房",
-      "text": "廚房",
-      "image": "https://cdn-icons-png.flaticon.com/512/1046/1046857.png"
-    },
-    {
-      "name": "出去玩",
-      "text": "出去玩",
-      "image": "https://cdn-icons-png.flaticon.com/512/9252/9252578.png"
-    },
-    {
-      "name": "牛奶",
-      "text": "牛奶  ",
-      "image": "https://cdn-icons-png.flaticon.com/512/1485/1485868.png"
+      "group": "名詞",
+      "isshow": "Y",
+      "data": [
+        { "name": "橘子", "text": "橘子", "image": "https://cdn-icons-png.flaticon.com/512/5029/5029540.png" },
+        { "name": "廁所", "text": "廁所", "image": "https://cdn-icons-png.flaticon.com/512/194/194483.png" },
+        { "name": "廚房", "text": "廚房", "image": "https://cdn-icons-png.flaticon.com/512/1046/1046857.png" },
+        { "name": "出去玩", "text": "出去玩", "image": "https://cdn-icons-png.flaticon.com/512/9252/9252578.png" },
+        { "name": "牛奶", "text": "牛奶", "image": "https://cdn-icons-png.flaticon.com/512/1485/1485868.png" }
+      ]
     }
   ]
 }
